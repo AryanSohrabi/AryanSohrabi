@@ -7,7 +7,6 @@ I'm currently working on<br>An online shop project that incorporates my skills i
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aryan Sohrabi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
